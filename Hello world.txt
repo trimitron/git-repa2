@@ -1,2 +1,7 @@
+
+print(«Hello world!;»);
+print("hello;")
+print("hello my dear friend;")
+print("Glad to see you;")
 print(«Hello world!;»);
 print("hello;")
